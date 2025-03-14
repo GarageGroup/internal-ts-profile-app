@@ -6,7 +6,7 @@ internal static class ProfileUpdateMetadata
     {
         public const string Tag = "Profile";
 
-        public const string Route = "/updateProfile";
+        public const string Route = "/";
 
         public const string Summary
             =

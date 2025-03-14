@@ -1,7 +1,7 @@
 ﻿using GarageGroup.Infra.Telegram.Bot;
 using Xunit;
 
-namespace GarageGroup.Internal.Timesheet.Service.BotApi.Test;
+namespace GarageGroup.Internal.Timesheet.Api.Profile.BotApi.Test;
 
 partial class BotApiSource
 {
