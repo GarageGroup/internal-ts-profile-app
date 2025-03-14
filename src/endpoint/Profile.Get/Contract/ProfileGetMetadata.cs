@@ -6,7 +6,7 @@ internal static class ProfileGetMetadata
     {
         public const string Tag = "Profile";
 
-        public const string Route = "/getProfile";
+        public const string Route = "/";
 
         public const string Summary
             =
